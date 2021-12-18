@@ -1,5 +1,7 @@
 FROM devopsedu/webapp
 
+MAINTAINER sanjum016 <sanjucody@gmail.com>
+
 #Update Repository
 RUN apt-get update -y
 
